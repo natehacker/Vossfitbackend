@@ -1,0 +1,27 @@
+{
+  "name": "vossfitbackend-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natehacker/Vossfitbackend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natehacker/Vossfitbackend/issues"
+  },
+  "homepage": "https://github.com/natehacker/Vossfitbackend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "logger": "^0.0.1",
+    "pg": "^8.8.0",
+    "sequelize": "^6.28.0"
+  }
+}
